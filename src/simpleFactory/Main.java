@@ -6,6 +6,7 @@ package simpleFactory;
 public class Main {
 
     public static void main(String[] args) {
+
         Operation operation = OperationFactory.createOperate("*");
         operation.setNumberA(10);
         operation.setNumberB(2);
