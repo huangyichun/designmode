@@ -1,4 +1,4 @@
-package com.huang.decorator;
+package decorator;
 
 /**
  *具体装饰类

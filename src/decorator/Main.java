@@ -1,4 +1,4 @@
-package com.huang.decorator;
+package decorator;
 
 /**
  * 测试装饰模式
