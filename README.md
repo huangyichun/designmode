@@ -1,4 +1,5 @@
-#常用设计模式总结
+
+# 常用设计模式总结
   </br></br>
   博客地址:https://www.zybuluo.com/huangyichun/note/718086
 - 简单工厂模式
