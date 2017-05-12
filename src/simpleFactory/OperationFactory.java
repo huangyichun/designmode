@@ -1,4 +1,4 @@
-package com.huang.simpleFactory;
+package simpleFactory;
 
 /**
  * Created by huang on 17-4-11.

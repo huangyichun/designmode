@@ -1,4 +1,4 @@
-package com.huang.simpleFactory;
+package simpleFactory;
 
 
 public class OperationAdd extends Operation {
