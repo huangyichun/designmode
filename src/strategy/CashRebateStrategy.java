@@ -1,4 +1,4 @@
-package com.huang.strategy;
+package strategy;
 
 /**
  * 打折

@@ -1,4 +1,4 @@
-package com.huang.strategy;
+package strategy;
 
 /**
  * 策略模式与简单工厂模式结合
